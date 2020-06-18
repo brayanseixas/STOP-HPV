@@ -10,7 +10,7 @@ library(grid)
 set.seed(060320)
 
 getwd()
-setwd("D:/Google Drive/PhD-UCLA/Research projects/HPV Cost-effectiveness analysis - Kominksi")
+setwd("D:/Google Drive/STOP-HPV_Cost-effectiveness-analysis")
 
 
 ## importing data
